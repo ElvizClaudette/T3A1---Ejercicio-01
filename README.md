@@ -9,12 +9,12 @@ Entrada: datos de los estudiantes
    - Asignatura: calificaciones, nombre de la asignatura
 Proceso:
    - Calcular el promedio de las calificaciones finales
-   - promedio = suma decalificaciones / totaldeCalificaciones
+   - promedio = sumadeCalificaciones / totaldeCalificaciones
 Salida:
    - Resumen de datos del estudiante con su promedio
     
    - -------------------------------------------------------
-   - Estudiante: Elviz Claudette 
+   - Estudiante: ELVIZ CLAUDETTE GARRIDO OSORIO 
    - Grupo: 1A  Carrera: INGENIERIA INFORMATICA
    -
    - Asignatura:                             Calificación 
