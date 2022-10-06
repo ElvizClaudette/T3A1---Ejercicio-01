@@ -27,5 +27,5 @@
     
     ## Etapa 3. Diseño de la solución
     Diagrama de la clase
-    ![](https://github.com/ElvizClaudette/T3A1---Ejercicio-01/blob/main/T3A1.png)
+    ![] (https://github.com/ElvizClaudette/T3A1---Ejercicio-01/blob/main/T3A1.png)
     
