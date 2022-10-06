@@ -3,7 +3,7 @@
 ## Etapa 1. Descripción del problema 
     Desarrollar una solución que permita ingresar y almacenar las calificaciones finales de todos los alumnos de un salón de clase. Determinar y mostrar el promedio de       las calificaciones finales en un resumen con los datos de los estudiantes.
 
-##Etapa 2. Especificaciones
+## Etapa 2. Especificaciones
 1. Entrada: datos de los estudiantes
    - Estudiantes: nombre, apellido, grupo, carrera.
    - Asignatura: calificaciones, nombre de la asignatura
@@ -25,5 +25,5 @@
    - -------------------------------------------------------
     ~~~
     
-    ##Etapa 3. Diseño de la solución
+    ## Etapa 3. Diseño de la solución
     Diagrama de la clase
