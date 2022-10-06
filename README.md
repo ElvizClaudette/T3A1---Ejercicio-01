@@ -13,6 +13,7 @@
 3. Salida:
    - Resumen de datos del estudiante con su promedio
     
+    ~~~
    - -------------------------------------------------------
    - Estudiante: ELVIZ CLAUDETTE GARRIDO OSORIO 
    - Grupo: 1A  Carrera: INGENIERIA INFORMATICA
